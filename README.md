@@ -213,3 +213,11 @@ generators (e.g. older GANs).
   fine-tuned from `Organika/sdxl-detector`.
 - SynthID watermark detection technique inspired by public research on spectral
   watermark analysis; re-implemented independently, **detection only**.
+
+---
+
+## License & community
+- **License:** Proprietary — © 2026 **Mithun Gowda B**. All rights reserved. See [LICENSE](LICENSE).
+- **Third-party notices:** [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) (note the model's CC-BY-NC-4.0 non-commercial terms).
+- **Security policy:** [SECURITY.md](SECURITY.md) — report vulnerabilities privately.
+- **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md) · **Code of Conduct:** [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)

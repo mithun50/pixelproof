@@ -1,0 +1,54 @@
+PixelProof — Proprietary Software License
+==========================================
+
+Copyright (c) 2026 Mithun Gowda B. All rights reserved.
+
+1. Definitions
+   "Software" means the PixelProof application, including its source code,
+   object code, assets, documentation, and all accompanying materials in this
+   repository, excluding third-party components listed in
+   THIRD_PARTY_NOTICES.md (which remain governed by their own licenses).
+   "Licensor" means Mithun Gowda B.
+
+2. Ownership
+   The Software is the exclusive property of the Licensor and is protected by
+   copyright and other intellectual-property laws. No title to or ownership of
+   the Software is transferred by this license.
+
+3. Grant
+   No license or right is granted to any person or entity except as expressly
+   stated in a separate written agreement signed by the Licensor. Absent such
+   an agreement, you may view the publicly available source for reference and
+   evaluation purposes only.
+
+4. Restrictions
+   Except with the Licensor's prior written permission, you MAY NOT:
+   (a) use the Software, in whole or in part, for any commercial or production
+       purpose;
+   (b) copy, reproduce, or redistribute the Software or any derivative works;
+   (c) modify, adapt, translate, or create derivative works of the Software;
+   (d) sublicense, sell, rent, lease, or otherwise transfer the Software;
+   (e) remove or alter any proprietary notices or this license.
+
+5. Third-Party Components
+   The Software incorporates third-party components under their own licenses;
+   see THIRD_PARTY_NOTICES.md. The bundled neural model is licensed
+   CC-BY-NC-4.0 (non-commercial only); any commercial use of the Software
+   requires replacing that model with an appropriately licensed alternative.
+
+6. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. AI-generated image
+   detection is probabilistic and not guaranteed to be accurate.
+
+7. Limitation of Liability
+   IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+8. Termination
+   Any breach of this license terminates your rights under it automatically.
+
+For licensing inquiries, contact the Licensor at
+mithungowda.b7411@gmail.com or via https://github.com/mithun50.
