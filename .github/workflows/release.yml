@@ -75,6 +75,9 @@ jobs:
           mkdir -p dist
           cp build/app/outputs/flutter-apk/app-release.apk "dist/pixelproof-${{ github.ref_name }}.apk"
           cp build/app/outputs/bundle/release/app-release.aab "dist/pixelproof-${{ github.ref_name }}.aab"
+          # Stable-named copies so "latest release" download links never change.
+          cp build/app/outputs/flutter-apk/app-release.apk "dist/pixelproof.apk"
+          cp build/app/outputs/bundle/release/app-release.aab "dist/pixelproof.aab"
 
       - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
@@ -86,6 +89,8 @@ jobs:
           files: |
             dist/pixelproof-${{ github.ref_name }}.apk
             dist/pixelproof-${{ github.ref_name }}.aab
+            dist/pixelproof.apk
+            dist/pixelproof.aab
 
       - name: Clean up signing material
         if: always()
