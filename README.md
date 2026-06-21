@@ -1,6 +1,6 @@
 # PixelProof
 
-[![Download APK](https://img.shields.io/badge/Download-APK-3E63DD?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mithun50/pixelproof/releases/latest/download/pixelproof.apk)
+[![Download APK](https://img.shields.io/badge/Download-latest%20release-3E63DD?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mithun50/pixelproof/releases/latest)
 [![Latest release](https://img.shields.io/github/v/release/mithun50/pixelproof?style=for-the-badge&label=release)](https://github.com/mithun50/pixelproof/releases/latest)
 [![Release workflow](https://img.shields.io/github/actions/workflow/status/mithun50/pixelproof/release.yml?style=for-the-badge&label=release%20build)](https://github.com/mithun50/pixelproof/actions/workflows/release.yml)
 
